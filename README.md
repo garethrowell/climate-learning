@@ -2,12 +2,14 @@
 
 This is a place to develop ideas, designs and machine learning models to study climate change. 
 
-# reference information
-The project utilizes the landscape dynamics resources from the National Park Service (NRSS I&M Division). Further information about the landscape dynamics program and monitoring environmental setting for National Park Service units can be found here:
+# reference information - All source datasets is used in this project are provisional and have not undergone Protocol Quality Assessment Plan (QAP) processing
+
+The project utilizes the landscape dynamics resources from the National Park Service (NRSS I&M Division). The NPS landscape dynamics program and protocol monitoring environmental setting for National Park Service units can be found here:
 
 https://irma.nps.gov/DataStore/Reference/Profile/2258457
 
 https://www.nps.gov/im/landscape-dynamics.htm
+ 
 
 The main dataset of interest is PRISM 800m gridded climate data. Source information for PRISM data can be found here:
 

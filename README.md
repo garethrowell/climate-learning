@@ -1,8 +1,9 @@
 # climate-learning
 
-This is a place to develop ideas, designs and machine learning models to study climate change. The project utilizes the
-landscape dynamics resources from the National Park Service (NRSS I&M Division). Further information about the 
-landscape dynamics program and monitoring environmental setting for National Park Service units can be found here:
+This is a place to develop ideas, designs and machine learning models to study climate change. 
+
+# reference information
+The project utilizes the landscape dynamics resources from the National Park Service (NRSS I&M Division). Further information about the landscape dynamics program and monitoring environmental setting for National Park Service units can be found here:
 
 https://irma.nps.gov/DataStore/Reference/Profile/2258457
 
